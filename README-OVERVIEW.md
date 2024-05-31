@@ -91,13 +91,11 @@ When facing issues with the execution and operation of your smart contract, simp
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ 
   [NTC-S] John Xyriz Estela Mengullo 
   422003755@ntc.edu.ph
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 This project is licensed under the [MIT] License - see the LICENSE.md file for details
